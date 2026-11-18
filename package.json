@@ -1,1 +1,13 @@
-{"name":"kelime-arenasi","version":"0.2.0","private":true,"scripts":{"start":"node server.js"},"dependencies":{"express":"^4.21.2","tiktok-live-connector":"^2.0.0"}}
+{
+  "name": "kelime-arenasi",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "tiktok-live-connector": "^2.0.0",
+    "pg": "^8.13.3"
+  }
+}
